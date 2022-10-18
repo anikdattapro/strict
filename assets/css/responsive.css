@@ -1,0 +1,258 @@
+/* Extra Extra large Device*/
+@media (min-width:1400px) {
+    .nav-item {
+        margin-left: 10px;
+    }
+}
+
+
+/* Extra Large Device*/
+@media (min-width:1200px) and (max-width:1399.98px) {
+    .nav-item {
+        margin-left: 10px;
+    }
+}
+
+
+/* Large Device*/
+@media (min-width:992px) and (max-width:1199.98px) {
+
+    .nav-item {
+        margin-left: 10px;
+    }
+}
+
+/* Mediam Device*/
+@media (min-width:768px) and (max-width:991.98px) {
+
+
+    #navbarNavDropdown {
+        margin-top: 25px;
+
+    }
+}
+
+/* Small Device*/
+@media (min-width:576px) and (max-width:767.98px) {
+
+    #navbarNavDropdown {
+        margin-top: 15px;
+    }
+
+    .hero_con_main h1 {
+
+        font-size: 80px;
+    }
+
+    .pure_design_con p {
+        text-align: justify;
+    }
+
+    .form-contact {
+        width: 400px;
+    }
+
+    ul.nav_item li a {
+        font-size: 16px;
+    }
+}
+
+/* Extra Small Device*/
+@media (min-width:300px) and (max-width:575.98px) {
+    .logo_ic img {
+        width: 25px !important;
+    }
+
+    #navbarNavDropdown {
+        margin-top: 15px;
+    }
+
+    .logo_text {
+
+        font-size: 25px;
+
+    }
+
+    .hero_con_main h1 {
+
+        font-size: 50px;
+    }
+
+    .pure_design_con p {
+        text-align: justify;
+    }
+
+    .form-contact {
+        width: 280px;
+    }
+
+    .submit_area {
+        display: block !important;
+    }
+
+    .submit_area button {
+        width: 280px;
+        margin-top: 10px;
+    }
+
+    .social_icon li {
+        margin-left: 5px;
+        height: 20px;
+        width: 20px;
+        border-radius: 2px;
+
+    }
+
+    .social_icon li i {
+        font-size: 10px;
+    }
+
+    .copy_con p {
+
+        font-size: 12px;
+    }
+
+    .overlay_icon {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #fff;
+        border-radius: 2px;
+    }
+
+    .overlay_icon i {
+        font-size: 15px;
+    }
+
+    .col-6 {
+
+        width: 80%;
+        margin: auto;
+
+    }
+
+    .mini_de {
+
+        margin-top: 1.5rem;
+    }
+
+    .pure_design_con h2 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+
+    .features_con h3 {
+        font-size: 20px;
+    }
+
+    .hero_con_main p {
+        font-size: 15px;
+    }
+
+    ul.nav_item li a {
+        font-size: 12px;
+    }
+
+
+}
+
+/*Extra extra small*/
+@media (max-width: 299.98px) {
+    .logo_ic img {
+        width: 25px !important;
+    }
+
+    #navbarNavDropdown {
+        margin-top: 15px;
+    }
+
+    ul.nav_item li a {
+        font-size: 12px;
+    }
+
+    .hero_con_main p {
+        font-size: 15px;
+    }
+
+    .features_con h3 {
+        font-size: 20px;
+    }
+
+    .logo_text {
+
+        font-size: 20px;
+
+    }
+
+
+    .hero_con_main h1 {
+
+        font-size: 50px;
+    }
+
+    .pure_design_con p {
+        text-align: justify;
+    }
+
+    .form-contact {
+        width: 200px;
+    }
+
+    .submit_area {
+        display: block !important;
+    }
+
+    .submit_area button {
+        width: 200px;
+        margin-top: 10px;
+    }
+
+    .social_icon li {
+        margin-left: 5px;
+        height: 20px;
+        width: 20px;
+        border-radius: 2px;
+
+    }
+
+    .social_icon li i {
+        font-size: 10px;
+    }
+
+    .copy_con p {
+
+        font-size: 12px;
+    }
+
+    .overlay_icon {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #fff;
+        border-radius: 2px;
+    }
+
+    .overlay_icon i {
+        font-size: 15px;
+    }
+
+    .col-6 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .mini_de {
+
+        margin-top: 1.5rem;
+    }
+
+    .pure_design_con h2 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+
+}
